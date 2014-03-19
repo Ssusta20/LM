@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+    <!--Hrvatska slova-->
      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title> Lead Management Login
         </title>
