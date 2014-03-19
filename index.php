@@ -6,9 +6,9 @@
     </head>
     <body>
         <form>
-        Username:
+        Username: <input type="text" name="UserName" />
         <br>
-        Password:
+        Password: <input type="text" name="Pass" />
         </form>
     </body>
 </html>
