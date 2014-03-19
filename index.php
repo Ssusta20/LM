@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Lead Management Login1
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title> Lead Management Login
         </title>
     </head>
     <body>
-        <form>
-        Username: <input type="text" name="UserName" />
+        <form metohd="GET" action = "akc.php">
+        Korisničko ime: <input type="text" name="userName" />
         <br>
-        Password: <input type="text" name="Pass" />
+        Lozinka: <input type="password" name="pass" />
+        <br>
+        <input type="submit" value="Prijava" />
         </form>
     </body>
 </html>
